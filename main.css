@@ -1,0 +1,19 @@
+.text_container{
+    width: 50%;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 20%;
+    color: var(--text_white);
+
+}
+
+
+
+.img_container{
+    width: 50%;
+    background-image: url("../images/Main/background.svg");
+}
+.img_container .big_dog{
+    width: 100%;
+}
