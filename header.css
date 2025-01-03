@@ -33,7 +33,7 @@ nav li{
 
 nav li:hover{
     font-weight: 600;
-    list-style-image: url(../images/Header/menu_hover.svg);
+    list-style-image: url(./images/Header/menu_hover.svg);
 }
 
 

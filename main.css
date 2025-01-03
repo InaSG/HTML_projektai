@@ -12,7 +12,7 @@
 
 .img_container{
     width: 50%;
-    background-image: url("../images/Main/background.svg");
+    background-image: url("./images/Main/background.svg");
 }
 .img_container .big_dog{
     width: 100%;
